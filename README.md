@@ -1,6 +1,6 @@
 # CSS Rocket Animation
 =========================
-
+Funny Rocket Animation with CSS.
 
 Installation
 --------------------
