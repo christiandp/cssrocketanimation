@@ -1,0 +1,25 @@
+{
+  "name": "rocketanimation",
+  "version": "1.0.0",
+  "description": "CSS Rocket Animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiandp/cssrocketanimation.git"
+  },
+  "author": "Christian Diaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christiandp/cssrocketanimation/issues"
+  },
+  "homepage": "https://github.com/christiandp/cssrocketanimation#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "watchify": "^3.7.0"
+  }
+}
